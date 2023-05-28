@@ -1,0 +1,229 @@
+|GUIA DE TRADUÇÃO DO AETHER PARA PORTUGUÊS BRASILEIRO|
+
+As traduções devem obedecer a gramática, frases devem apresentar letras maiúsculas em:
+
+- Nomes de pessoas, reais ou fictícias: Pedro Costa; Branca de Neve; Bob Esponja; Netuno.
+- Nomes próprios de lugares, reais ou fictícios: Brasil, Tocantins, Londrina; Atlântida.
+- Nomes de festividades: Natal, Páscoa, Dia das Bruxas.
+
+	|----- Exemplo prático -----|
+
+Correto: Minério de gravitita
+Errado: Minério de Gravitita
+
+	|----- Se Referindo ao Jogador -----|
+
+▶ Caso 1: quando o original utilizar da palavra "player", o masculino deve ser utilizado devido a palavra jogador 
+
+-Exemplo: "Player is already whitelisted to use the Sun Altar" --> "O jogador já está na lista de permissões para usar o Altar do sol"
+
+▶ Caso 2: quando o original não utilizar verbo específico para se referir ao jogador empregar dualidade de pronome
+
+-Exemplo: "X was crushed by Y" --> "X foi esmagado(a)S por Y"
+
+	|----- Glossário ------|
+
+> TERMOS--------------------------------------------------------------------------------------|
+
+	- Angelic --> Angelical
+	- Cooldown --> Tempo de espera, Tempo de recarga
+	- Craft --> Contruir, Fazer, Fabricar, Criar
+	- Dungeon --> Masmorra
+	- Enchant --> Encantar, Encantado
+	- Holiday --> Festivo, Festiva
+	- Loot --> Itens, Tesouro
+	- Lore --> Conhecimento
+	- Overrides --> sobrepõe
+	- Overworld --> Superfície
+	- Player --> Jogador
+	- Realm --> Dimensão
+	- reset --> Reiniciar
+	- Shoot --> Disparar
+	- Spawn --> Geral, Aparecer
+	- whitelist --> Lista de permissões
+	- World Preview --> Prévia de mundo
+
+
+> Entidades-----------------------------------------------------------------------------------|
+   ▶ Valquíria nomeando uma criatura mitológica
+
+	- Aechor Plant --> Planta écor
+	- Aerbunny --> Vooelho	
+	- Aerwhale --> Baleiaérea
+	- Baby Moas -->  Moas bebê
+	- Cloud Minion --> Lacaio das nuvens
+	- Cockatrice --> Basilisco
+	- Evil Whirlwind --> Demônio da poeira
+	- Fire Minion --> Lacaio de fogo
+	- Flying Cow --> Vaca voadora
+	- Mimic --> Mímico
+	- Moa --> Moa
+	- Phyg --> Phoorco		
+	- Sentry --> Sentinela
+	- Sheepuff --> Uuuvelha
+	- Sun Spirit --> Espírito do sol
+	- Valkyries --> Valquírias
+	- Valkyrie Queen--> Rainha Valquíria*
+	- Whirlwind --> Ciclone 
+	- Zaphyrs --> Zéfiro
+
+> Ferramentas/Armaduras/Armas-----------------------------------------------------------------|
+   ▶ Fênix/Valquíria/Netuno/Sentinela nomeando uma criatura/ser
+   ▶ "Notch" sendo nome próprio
+
+	- Agility Cape --> Capa da agilidade
+	- Candy Cane Sword --> Espada de bengala doce
+	- Cloud Staff --> Cajado das nuvens
+	- Dart Shooters --> Zarabatana
+	- Enchanted Dart --> Dardo encantado
+	- Enchanted Dart Shooter --> Zarabatana encantada
+	- Flaming Sword --> Espada flamejante
+	- Golden Dart --> Dardo dourado
+	- Golden Dart Shooter --> Zarabatana dourada
+	- Golden Gloves --> Luvas douradas	
+	- Golden Pendant --> Pingente dourado
+	- Golden Ring --> Anel dourado
+	- Hammer of Notch --> Martelo de Notch*
+	- Holy Sword --> Espada sagrada
+	- Ice Pendant -- Pingente de gelo
+	- Invisibility Cloak --> Manto da invisibilidade
+	- Iron Bubble --> Bolha de ferro
+	- Iron Pendant --> Pingente de ferro
+	- Lightning Knife --> Faca trovão
+	- Lightning Sword --> Espada trovão
+	- Nature Staff --> Cajado da natureza
+	- Neptune Armous --> Armadura de Netuno*
+	- Phoenix Armour --> Armadura da Fênix*
+	- Pig Slayer --> Assasina de porcos 
+	- Poison Dart --> Dardo envenenado
+	- Poison Dart Shooter --> Zarabatana envenenada
+	- Regeneration Stone --> Pedra da regeneração
+	- Sentry Boots --> Botas do Sentinela*
+	- Shield of Repulsion --> Escudo da repulsão
+	- Valkyrie Cape --> Capa da Valquíria*
+	- Vampire Blade --> Lâmina vampírica
+	- _______ Cape --> Capa _______
+		
+> Minérios------------------------------------------------------------------------------------|
+
+	- Ambrosium --> Ambrósio
+	- Gravitete --> Gravitita
+	- Zanite --> Zanita
+
+> Natureza------------------------------------------------------------------------------------|
+   ▶ Terra do Aether nomeada por um local
+
+	- Aercloud --> Aeronuvem
+	- Aether Dirt --> Terra do Aether*
+	- Cold Aercloud --> Aeronuvem fria
+	- Golden Oak --> Carvalho dourado
+	- Holiday Tree --> Árvore festiva
+	- Holystone --> Pedrasanta
+	- Icestone --> Glacirocha
+	- Quicksoil --> Soloágil	
+	- Skyroot --> Aerorraiz
+
+> Blocos-------------------------------------------------------------------------------------|
+
+	- Aerogel --> Aerogel
+	- Angelic Stone --> Pedra angelical
+	- Carved Stone --> Pedra talhada
+	- Freezer --> Congelador
+	- Hellfire Stone --> Pedra infernal
+	- Incubator --> Incubadora
+	- Sentry Stone --> Pedra sentinela
+	- TNT Present --> Presente com TNT
+	- Unstable Obsidian --> Obsidiana instável
+
+> Itens--------------------------------------------------------------------------------------|
+    ▶ "preto" no masculino pois se refere ao ovo e não a Moa
+
+	- _______ Key --> Chave de _______	
+	- Aechor Petal --> Pétala de écor
+	- Aether Portal Frame --> Moldura do portal do Aether
+	- Black Moa Egg --> Ovo de Moa preto*
+	- Blue Moa Egg --> Ovo de moa azul
+	- Candy Cane --> Bengala doce
+	- Cold Parachute --> Paraquedas frio
+	- Golden Amber --> Âmbar dourada
+	- Golden Feather --> Pena dourada
+	- Golden Parachute --> Paraquedas dourado
+	- Victory Medals --> Medalhas da vitória
+
+> Consumíveis--------------------------------------------------------------------------------|
+	
+	- Blueberry --> Mirtilo
+	- Enchanted Berry --> Mirtilo encantado
+	- Ginger Bread Man --> Homem de gengibre
+	- Healing Stone --> Pedra de cura
+	- Life Shards --> Fragmentos de vida
+	- Remedy Bucket --> Balde de remédio
+	- White Apple --> Maçã branca
+
+> Construções--------------------------------------------------------------------------------|
+   ▶ maiúsculas nomeando lugares
+
+	- Bronze Dungeon --> Masmorra de Bronze*
+	- Silver Dungeon --> Masmorra de Prata*
+	- Gold Dungeon --> Masmorra de Ouro*
+
+> Efeitos------------------------------------------------------------------------------------|
+
+	- Inebriation --> Embriaguez
+
+> Outros-------------------------------------------------------------------------------------|
+   ▶ "fragmentos de ambrósio" não se tratam do nome do item, que é nomeado apenas "Ambrósio"
+   ▶ Zéfiro nomeando um mob
+
+	- Ambrosium Shards ---> Fragmentos de Ambrósio*
+	- Cloud Crystal --> Cristal de nuvem
+	- Developer Glow --> Brilho de desenvolvedor
+	- Fire Crystal --> Cristal de fogo
+	- Halo --> Auréola
+	- Hammer Projectile --> Projétil de martelo
+	- Ice Crystal --> Cristal de gelo
+	- Poison Needle --> Agulha envenenada
+	- Thunder Crystal - Cristal do trovão
+	- Treasure Chest --> Baú do tesouro
+	- Zanite Gemstone --> Jóia de zanita
+	- Zephyr Snowball --> Bola de neve de Zéfiro
+
+> Referencias da Wiki-----------------------------------------------------------------------|
+
+	- _______ Boat --> Bote de _______
+	- _______ Boat with Chest --> Bote de _______ com baú
+	- _______ Button --> Botão de _______
+	- _______ Door --> Porta de _______
+	- _______ Fence --> Cerca de _______
+	- _______ Fence Gate --> Portão de _______
+	- _______ Slab --> Laje de _______
+	- _______ Stairs --> Escadas de _______
+	- _______ Trapdoor --> Alçapão de _______
+	- _______ Trapdoor --> Alçapão de _______
+	- _______ Wall --> Muro de _______
+	- Chainmail --> Malha
+	- Farm Land --> Terra arada
+	- Glass Pane --> Vidraça
+	- Mossy _______ --> _______ Musgosa(o)
+	- Music disc --> Disco de música
+	- Spawn Egg --> Ovo gerador
+
+> Casos Específicos-------------------------------------------------------------------------|
+
+	- Trapped _______ Stone --> Pedra _______ com armadilha
+	- Locked _______ Stone --> Pedra _______ trancada
+	- Tresure Doorway _______ Stone --> Pedra _______ da entrada do tesouro
+	- Boss Doorway _______ Stone --> Pedra _______ da entrada do chefe
+
+> Termos Técnicos---------------------------------------------------------------------------|
+   ▶Termos ligados a partes técnicas do jogo devem ser mantidos em inglês:
+
+	- Chunk
+	- ID
+	- Loot table
+	- Mods
+	- Shaders
+	- Skins
+	- Skybox
+	- Ticks
+	- Vanilla
